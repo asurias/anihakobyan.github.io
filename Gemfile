@@ -6,7 +6,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
-  gem 'tzinfo-data', platforms: [:mingw, :mswin] 
+  gem 'tzinfo-data'
   
 end
 
